@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Pet Care with a conscience
-image: /img/img_0186.jpg
+image: /img/hero.jpg
 heading: Pet Care with a conscience
 subheading: Support animals through adoption and promoting pet chefs
 mainpitch:
