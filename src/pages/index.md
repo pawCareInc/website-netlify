@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Pet Care with a conscience
 image: /img/img_0186.jpg
 heading: Pet Care with a conscience
 subheading: Support animals through adoption and promoting pet chefs
